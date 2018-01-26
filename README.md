@@ -56,6 +56,7 @@
 + cd VueMusic/
 + cnpm install
 + npm start
++ https://router.vuejs.org/zh-cn/essentials/history-mode.html
 
 
 
